@@ -177,5 +177,5 @@ Shabaz
 B.Tech AIML Student
 Aspiring AI & Machine Learning Engineer
 
-GitHub: <your-github-link>
-LinkedIn: <your-linkedin-link>
+GitHub: <https://github.com/Shabazshiek>
+LinkedIn: <https://www.linkedin.com/in/sharfuddin-shaik/>
